@@ -8,7 +8,7 @@
 
 * 🐧 **System Maintenance & Updates:** Bash and Python utilities for updating, upgrading, and maintaining various distros (Linux Mint, Ubuntu, Arch Linux / CachyOS).
 * ⚙️ **Desktop Personalization:** Dotfiles, TOML configurations, and custom scripts for tweaking Linux desktop environments.
-* 🤖 **Homelab & Proxmox Automation:** Ansible playbooks and Python scripts for automating Proxmox VE VM/LXC deployments and homelab tasks.
+* 🤖 **Proxmox Automation:** Ansible playbooks and Python scripts for automating Proxmox VE VM/LXC deployments and homelab tasks.
 * 🎓 **Legacy Projects:** Archived Python scripts and assignments from college.
 
 ---
