@@ -6,7 +6,7 @@
 
 ### 🛠️ What You'll Find Here
 
-* 🐧 **System Maintenance & Updates:** Bash and Python utilities for updating, upgrading, and maintaining various distros (Linux Mint, Ubuntu, Arch Linux / CachyOS).
+* 🐧 **System Maintenance & Updates:** Bash and Python utilities for updating, upgrading, and maintaining various distros (Linux Mint, Ubuntu, Arch Linux / CachyOS, Fedora, RHEL).
 * ⚙️ **Desktop Personalization:** Dotfiles, TOML configurations, and custom scripts for tweaking Linux desktop environments.
 * 🤖 **Proxmox Automation:** Ansible playbooks and Python scripts for automating Proxmox VE VM/LXC deployments and homelab tasks.
 * 🎓 **Legacy Projects:** Archived Python scripts and assignments from college.
@@ -16,6 +16,8 @@
 # 💻 Tech Stack:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
