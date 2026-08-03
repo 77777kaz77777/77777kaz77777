@@ -16,12 +16,12 @@
 ### 💻 Tech Stack
 
 #### Operating Systems & Infrastructure
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 #### Scripting & Automation
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -33,14 +33,16 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=77777kaz77777&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=77777kaz77777&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="49%" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=77777kaz77777&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=77777kaz77777&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="170" />
+</div>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=77777kaz77777&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
+<br />
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=77777kaz77777&theme=dark&hide_border=false" alt="GitHub Streak" height="170" />
+</div>
 
 ---
 
