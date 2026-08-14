@@ -1,12 +1,13 @@
-# 👋 Welcome to My Personal Script Hub
+# 👋 Welcome to My Personal Hub
 
-> 💡 **About This Account:** This GitHub profile serves as a personal playground and central repository for my **Linux maintenance scripts, system customization setups, and task automation workflows**. 
+> 💡 **About This Account:** This GitHub profile serves as a personal playground and central repository for my **Linux maintenance scripts, administrative cheat sheets, system customization setups, and task automation workflows**. 
 
 ---
 
 ### 🛠️ What You'll Find Here
 
 * 🐧 **System Maintenance & Updates:** Production-ready Bash scripts for updating, upgrading, and maintaining various distros (Linux Mint, Ubuntu, Arch Linux / CachyOS, Fedora, RHEL).
+* 📚 **Documentation & Cheat Sheets:** Comprehensive markdown references covering Fedora administration (`firewalld`, `SELinux`, `AppArmor`), systemd, text editors (`vi`/`vim`), virtualization (`Proxmox`, `Virt-Manager`, `Hyper-V`), containers (`Docker`, `Podman`, `LXC`), and cross-platform tooling.
 * ⚙️ **Desktop Personalization:** Dotfiles, TOML configurations, and custom scripts for tweaking Linux desktop environments.
 * 🤖 **Proxmox Automation:** Ansible playbooks and Python scripts for automating Proxmox VE VM/LXC deployments and homelab tasks.
 * 🎓 **Legacy Projects:** Archived Python and Bash scripts and assignments from college.
