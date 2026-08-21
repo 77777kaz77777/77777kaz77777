@@ -20,19 +20,19 @@
 
 ### 📂 Featured Repositories
 
-#### 1. [Sysadmin Automation Scripts](./sysadmin-automation-scripts)
+#### 1. Sysadmin Automation Scripts
 *Enterprise-grade provisioning and hypervisor automation.*
 *   **Proxmox VE Orchestration:** Ansible playbooks for bulk VM cloning, deployment, and teardown from templates, ensuring idempotent state management.
 *   **Access Control:** Python scripts for programmatic assignment and revocation of Proxmox user permissions and roles via SSH.
 *   **Automated Provisioning:** Secure, automated local user onboarding and lifecycle management for both Linux and Windows utilizing interactive prompts and CSV parsing.
 
-#### 2. [Linux Maintenance & Dotfiles](./linux-maintenance-and-dotfiles)
+#### 2. Linux Maintenance & Dotfiles
 *System upkeep, security hardening, and environment parity.*
 *   **Automated Maintenance:** Production-ready Bash workflows for patching, upgrading, and maintaining Fedora, Arch Linux, and Ubuntu/Debian-based systems.
 *   **Security Automation:** Systemd-scheduled ClamAV multi-threaded scans, CachyOS/Fedora kernel hardening, and Firewalld management.
 *   **CLI & Desktop Parity:** Highly optimized dotfiles (Alacritty, Starship, DNF5) ensuring consistent, rapid, and aesthetically clean terminal environments.
 
-#### 3. [Systems & Architecture Documentation](./documentation-and-cheat-sheets)
+#### 3. Systems & Architecture Documentation
 *Comprehensive runbooks, cheat sheets, and architectural guides.*
 *   **Filesystems & Recovery:** Deep dives into BTRFS snapshot automation, GRUB boot menu integration, and bare-metal recovery protocols.
 *   **Container & VM Operations:** Operational guides for Virt-Manager (KVM/QEMU), Podman desktop/CLI, and LXC container management.
