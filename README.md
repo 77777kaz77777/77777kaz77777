@@ -4,7 +4,7 @@
 
 > 💡 **About This Account:** This GitHub profile serves as a personal playground and central repository for my **Linux maintenance scripts, administrative cheat sheets, system customization setups, and task automation workflows**. 
 
-🌱 **Currently exploring:** BTRFS, Podman, and relearning Ansible.
+🌱 **Currently exploring:** BTRFS, Podman.
 
 ---
 
