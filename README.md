@@ -1,42 +1,44 @@
-# 👋 Welcome to My Personal Hub
+# README.md
+
+# 👋 Welcome to My GitHub Portfolio
 
 **Systems Administration | Infrastructure Automation | Cybersecurity**
 
-> 💡 **About This Account:** This GitHub profile serves as a personal playground and central repository for my **Linux maintenance scripts, administrative cheat sheets, system customization setups, and task automation workflows**. 
+> 💡 **About This Account:** This profile showcases my projects in IT infrastructure, system administration, and automation. It serves as a central hub for my maintenance scripts, setup guides, and automated workflows designed to improve efficiency and system reliability. 
 
-🌱 **Currently exploring:** BTRFS, Podman.
+🌱 **Currently exploring:** BTRFS storage and Podman containers.
 
 ---
 
 ### 🚀 Core Focus Areas
 
-*   **Infrastructure as Code (IaC):** Idempotent deployments and hypervisor management using Ansible and Python.
-*   **System Hardening:** Implementing SELinux, AppArmor, and automated vulnerability scanning across diverse environments.
-*   **Storage & Backups:** Advanced BTRFS subvolume management, atomic snapshot integration (`btrbk`, `snapper`), and robust disaster recovery workflows.
-*   **Containerization & Virtualization:** Orchestrating workloads via Proxmox VE, Podman, Docker, and LXC.
-*   **Zero-Trust & Networking:** Mesh VPN routing with Tailscale, custom OpenWrt configurations, and AdGuard Home DNS sinkholing.
+*   **Infrastructure Automation:** Managing and deploying servers reliably using Ansible and Python.
+*   **System Security:** Securing operating systems with SELinux, AppArmor, and automated vulnerability scans.
+*   **Storage & Backups:** Managing BTRFS storage, automated system snapshots, and reliable disaster recovery plans.
+*   **Containers & Virtualization:** Running and managing virtual environments using Proxmox, Docker, Podman, and LXC.
+*   **Networking:** Setting up secure mesh VPNs with Tailscale, configuring OpenWrt routers, and network-level security.
 
 ---
 
 ### 📂 Featured Repositories
 
 #### 1. Sysadmin Automation Scripts
-*Enterprise-grade provisioning and hypervisor automation.*
-*   **Proxmox VE Orchestration:** Ansible playbooks for bulk VM cloning, deployment, and teardown from templates, ensuring idempotent state management.
-*   **Access Control:** Python scripts for programmatic assignment and revocation of Proxmox user permissions and roles via SSH.
-*   **Automated Provisioning:** Secure, automated local user onboarding and lifecycle management for both Linux and Windows utilizing interactive prompts and CSV parsing.
+*Scripts for automating server setup and environment management.*
+*   **Proxmox Automation:** Ansible scripts to quickly create, configure, and remove virtual machines from standard templates.
+*   **Access Control:** Python tools to automatically manage user permissions and access roles.
+*   **Account Setup:** Automated, secure tools to create and manage local user accounts for both Linux and Windows environments.
 
-#### 2. Linux Maintenance & Dotfiles
-*System upkeep, security hardening, and environment parity.*
-*   **Automated Maintenance:** Production-ready Bash workflows for patching, upgrading, and maintaining Fedora, Arch Linux, and Ubuntu/Debian-based systems.
-*   **Security Automation:** Systemd-scheduled ClamAV multi-threaded scans, CachyOS/Fedora kernel hardening, and Firewalld management.
-*   **CLI & Desktop Parity:** Highly optimized dotfiles (Alacritty, Starship, DNF5) ensuring consistent, rapid, and aesthetically clean terminal environments.
+#### 2. Linux Maintenance & Configuration
+*Tools for system updates, security, and consistent workspace setups.*
+*   **System Maintenance:** Bash scripts to patch, update, and maintain Fedora, Arch Linux, and Ubuntu systems.
+*   **Security Tools:** Automated antivirus scans, firewall management, and operating system hardening.
+*   **Terminal Setup:** Configuration files (dotfiles) tailored for a fast, clean, and consistent command-line experience across different machines.
 
 #### 3. Systems & Architecture Documentation
-*Comprehensive runbooks, cheat sheets, and architectural guides.*
-*   **Filesystems & Recovery:** Deep dives into BTRFS snapshot automation, GRUB boot menu integration, and bare-metal recovery protocols.
-*   **Container & VM Operations:** Operational guides for Virt-Manager (KVM/QEMU), Podman desktop/CLI, and LXC container management.
-*   **Networking & Security:** Tactical references for Tailscale mesh networking, OpenWrt UCI management, and penetration testing toolkits.
+*Clear guides, cheat sheets, and technical notes.*
+*   **Backup & Recovery:** Step-by-step guides on automated backups, system boot repair, and full bare-metal system recovery.
+*   **Virtual Machines & Containers:** Operational guides for running applications in virtual environments (KVM/QEMU, Podman, LXC).
+*   **Networking & Security:** Reference materials for setting up secure networks and basic security testing tools.
 
 ---
 
