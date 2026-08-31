@@ -1,5 +1,3 @@
-# README.md
-
 # 👋 Welcome to My GitHub Portfolio
 
 **Systems Administration | Infrastructure Automation | Cybersecurity**
