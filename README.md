@@ -47,6 +47,7 @@
 ![Podman](https://img.shields.io/badge/podman-892CA0?style=flat-square&logo=podman&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![KVM](https://img.shields.io/badge/KVM-E95420?style=flat-square&logo=linux&logoColor=white)
+![LXC](https://img.shields.io/badge/LXC-DD4814?style=flat-square&logo=linux&logoColor=white) 
 
 **Automation & Scripting**<br>
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat-square&logo=ansible&logoColor=white)
@@ -59,6 +60,8 @@
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=red-hat&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)
 
 **Networking & Infrastructure**<br>
 ![Tailscale](https://img.shields.io/badge/Tailscale-FFFFFF?style=flat-square&logo=tailscale&logoColor=black)
