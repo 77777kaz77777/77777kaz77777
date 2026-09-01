@@ -2,7 +2,7 @@
 
 **Systems Administration | Infrastructure Automation | Cybersecurity**
 
-> 💡 **About This Account:** This profile showcases my projects in IT infrastructure, system administration, and automation. It serves as a central hub for my maintenance scripts, setup guides, and automated workflows designed to improve efficiency and system reliability. 
+> 💡 **About This Account:** This profile showcases my projects in IT infrastructure, system administration, and automation. It serves as a central hub for my maintenance scripts, setup guides, and automated workflows designed to improve efficiency and system reliability. I daily drive Fedora KDE Plasma to maintain continuous, hands-on integration with the Linux ecosystem.
 
 🌱 **Currently exploring:** BTRFS storage and Podman containers.
 
@@ -61,7 +61,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=red-hat&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)
 
 **Networking & Infrastructure**<br>
 ![Tailscale](https://img.shields.io/badge/Tailscale-FFFFFF?style=flat-square&logo=tailscale&logoColor=black)
