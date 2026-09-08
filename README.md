@@ -1,46 +1,46 @@
-#  Welcome to My GitHub Portfolio
+# Welcome to My GitHub Portfolio
 
 **Systems Administration | Infrastructure Automation | Cybersecurity**
 
->  **About This Account:** This profile showcases my projects in IT infrastructure, system administration, and automation. It serves as a central hub for my maintenance scripts, setup guides, and automated workflows designed to improve efficiency and system reliability. I daily drive Fedora KDE Plasma to maintain continuous, hands-on integration with the Linux ecosystem.
+> **About This Account:** This profile showcases my projects in IT infrastructure, system administration, and automation. It serves as a central hub for my maintenance scripts, setup guides, and automated workflows designed to improve efficiency and system reliability. I daily drive Fedora KDE Plasma to maintain continuous, hands-on integration with the Linux ecosystem.
 
 **Currently exploring:** BTRFS storage and Podman containers.
 
 ---
 
-###  Core Focus Areas
+### Core Focus Areas
 
-*   **Infrastructure Automation:** Managing and deploying servers reliably using Ansible and Python.
-*   **System Security:** Securing operating systems with SELinux, AppArmor, and automated vulnerability scans.
-*   **Storage & Backups:** Managing BTRFS storage, automated system snapshots, and reliable disaster recovery plans.
-*   **Containers & Virtualization:** Running and managing virtual environments using Proxmox, Docker, Podman, and LXC.
-*   **Networking:** Setting up secure mesh VPNs with Tailscale, configuring OpenWrt routers, and network-level security.
+* **Infrastructure Automation:** Managing and deploying servers reliably using Ansible and Python.
+* **System Security:** Securing operating systems with SELinux, AppArmor, and automated vulnerability scans.
+* **Storage & Backups:** Managing BTRFS storage, automated system snapshots, and reliable disaster recovery plans.
+* **Containers & Virtualization:** Running and managing virtual environments using Proxmox, Docker, Podman, and LXC.
+* **Networking:** Setting up secure mesh VPNs with Tailscale, configuring OpenWrt routers, and network-level security.
 
 ---
 
-###  Featured Repositories
+### Featured Repositories
 
 #### 1. linux-environment-automation
 *A central repository for cross-distro automation, security audits, and environment configurations.*
-*   **System Maintenance:** Automated patching and lifecycle management routines for Fedora, Arch Linux, CachyOS, and Ubuntu.
-*   **Security & Hardening:** Scripted execution of ClamAV antivirus scans, sysctl network/kernel tweaks, and OS security hardening policies.
-*   **Workspace Provisioning:** Version-controlled dotfiles, custom shell aliases, and terminal configs for rapid, consistent workstation deployment.
+* **System Maintenance:** Automated patching and lifecycle management routines for Fedora, Arch Linux, CachyOS, and Ubuntu.
+* **Security & Hardening:** Scripted execution of ClamAV antivirus scans, sysctl network/kernel tweaks, and OS security hardening policies.
+* **Workspace Provisioning:** Version-controlled dotfiles, custom shell aliases, and terminal configs for rapid, consistent workstation deployment.
 
 #### 2. Infrastructure Automation Scripts
 *Production-focused code for server setup, container orchestration, and identity management.*
-*   **Proxmox Orchestration:** Ansible playbooks designed for rapid provisioning and teardown of virtual machines from standardized templates.
-*   **Identity & Access Control:** Python utilities to securely automate user permission structures and role assignments.
-*   **Account Bootstrapping:** Secure, zero-touch scripts for local user account creation across Linux and Windows environments.
+* **Proxmox Orchestration:** Ansible playbooks designed for rapid provisioning and teardown of virtual machines from standardized templates.
+* **Identity & Access Control:** Python utilities to securely automate user permission structures and role assignments.
+* **Account Bootstrapping:** Secure, zero-touch scripts for local user account creation across Linux and Windows environments.
 
 #### 3. Systems Architecture & Documentation
 *Comprehensive technical reference materials, operational runbooks, and disaster recovery guides.*
-*   **Disaster Recovery:** Detailed guides on BTRFS automated snapshot lifecycles, boot repair, and bare-metal system recovery.
-*   **Container & VM Operations:** Practical operational runbooks for running isolated workloads via KVM/QEMU, Podman, Docker, and LXC.
-*   **Networking & Security:** Architecture references for setting up secure mesh VPNs (Tailscale, WireGuard) and network security controls.
+* **Disaster Recovery:** Detailed guides on BTRFS automated snapshot lifecycles, boot repair, and bare-metal system recovery.
+* **Container & VM Operations:** Practical operational runbooks for running isolated workloads via KVM/QEMU, Podman, Docker, and LXC.
+* **Networking & Security:** Architecture references for setting up secure mesh VPNs (Tailscale, WireGuard) and network security controls.
 
 ---
 
-###  Technology Stack
+### Technology Stack
 
 **Virtualization & Containers**<br>
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
@@ -83,7 +83,7 @@
 
 ---
 
-###  GitHub Activity
+### GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=77777kaz77777&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="170" />
