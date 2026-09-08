@@ -1,14 +1,14 @@
-# 👋 Welcome to My GitHub Portfolio
+#  Welcome to My GitHub Portfolio
 
 **Systems Administration | Infrastructure Automation | Cybersecurity**
 
-> 💡 **About This Account:** This profile showcases my projects in IT infrastructure, system administration, and automation. It serves as a central hub for my maintenance scripts, setup guides, and automated workflows designed to improve efficiency and system reliability. I daily drive Fedora KDE Plasma to maintain continuous, hands-on integration with the Linux ecosystem.
+>  **About This Account:** This profile showcases my projects in IT infrastructure, system administration, and automation. It serves as a central hub for my maintenance scripts, setup guides, and automated workflows designed to improve efficiency and system reliability. I daily drive Fedora KDE Plasma to maintain continuous, hands-on integration with the Linux ecosystem.
 
-🌱 **Currently exploring:** BTRFS storage and Podman containers.
+**Currently exploring:** BTRFS storage and Podman containers.
 
 ---
 
-### 🚀 Core Focus Areas
+###  Core Focus Areas
 
 *   **Infrastructure Automation:** Managing and deploying servers reliably using Ansible and Python.
 *   **System Security:** Securing operating systems with SELinux, AppArmor, and automated vulnerability scans.
@@ -18,7 +18,7 @@
 
 ---
 
-### 📂 Featured Repositories
+###  Featured Repositories
 
 #### 1. linux-environment-automation
 *A central repository for cross-distro automation, security audits, and environment configurations.*
@@ -40,7 +40,7 @@
 
 ---
 
-### 🛠️ Technology Stack
+###  Technology Stack
 
 **Virtualization & Containers**<br>
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
@@ -83,7 +83,7 @@
 
 ---
 
-### 📊 GitHub Activity
+###  GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=77777kaz77777&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" height="170" />
