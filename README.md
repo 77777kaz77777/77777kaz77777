@@ -20,23 +20,23 @@
 
 ### 📂 Featured Repositories
 
-#### 1. Sysadmin Automation Scripts
-*Scripts for automating server setup and environment management.*
-*   **Proxmox Automation:** Ansible scripts to quickly create, configure, and remove virtual machines from standard templates.
-*   **Access Control:** Python tools to automatically manage user permissions and access roles.
-*   **Account Setup:** Automated, secure tools to create and manage local user accounts for both Linux and Windows environments.
+#### 1. linux-environment-automation
+*A central repository for cross-distro automation, security audits, and environment configurations.*
+*   **System Maintenance:** Automated patching and lifecycle management routines for Fedora, Arch Linux, CachyOS, and Ubuntu.
+*   **Security & Hardening:** Scripted execution of ClamAV antivirus scans, sysctl network/kernel tweaks, and OS security hardening policies.
+*   **Workspace Provisioning:** Version-controlled dotfiles, custom shell aliases, and terminal configs for rapid, consistent workstation deployment.
 
-#### 2. Linux Maintenance & Configuration
-*Tools for system updates, security, and consistent workspace setups.*
-*   **System Maintenance:** Bash scripts to patch, update, and maintain Fedora, Arch Linux, and Ubuntu systems.
-*   **Security Tools:** Automated antivirus scans, firewall management, and operating system hardening.
-*   **Terminal Setup:** Configuration files (dotfiles) tailored for a fast, clean, and consistent command-line experience across different machines.
+#### 2. Infrastructure Automation Scripts
+*Production-focused code for server setup, container orchestration, and identity management.*
+*   **Proxmox Orchestration:** Ansible playbooks designed for rapid provisioning and teardown of virtual machines from standardized templates.
+*   **Identity & Access Control:** Python utilities to securely automate user permission structures and role assignments.
+*   **Account Bootstrapping:** Secure, zero-touch scripts for local user account creation across Linux and Windows environments.
 
-#### 3. Systems & Architecture Documentation
-*Clear guides, cheat sheets, and technical notes.*
-*   **Backup & Recovery:** Step-by-step guides on automated backups, system boot repair, and full bare-metal system recovery.
-*   **Virtual Machines & Containers:** Operational guides for running applications in virtual environments (KVM/QEMU, Podman, LXC).
-*   **Networking & Security:** Reference materials for setting up secure networks and basic security testing tools.
+#### 3. Systems Architecture & Documentation
+*Comprehensive technical reference materials, operational runbooks, and disaster recovery guides.*
+*   **Disaster Recovery:** Detailed guides on BTRFS automated snapshot lifecycles, boot repair, and bare-metal system recovery.
+*   **Container & VM Operations:** Practical operational runbooks for running isolated workloads via KVM/QEMU, Podman, Docker, and LXC.
+*   **Networking & Security:** Architecture references for setting up secure mesh VPNs (Tailscale, WireGuard) and network security controls.
 
 ---
 
