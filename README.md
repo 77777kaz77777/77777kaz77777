@@ -46,6 +46,7 @@
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
 ![Podman](https://img.shields.io/badge/podman-892CA0?style=flat-square&logo=podman&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![KVM](https://img.shields.io/badge/KVM-E95420?style=flat-square&logo=linux&logoColor=white)
 ![LXC](https://img.shields.io/badge/LXC-DD4814?style=flat-square&logo=linux&logoColor=white) 
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
@@ -80,6 +81,8 @@
 ![NFS](https://img.shields.io/badge/NFS-EA4335?style=flat-square&logo=linux&logoColor=white)
 ![AdGuard Home](https://img.shields.io/badge/AdGuard_Home-68BC71?style=flat-square&logo=adguard&logoColor=white)
 ![Samba](https://img.shields.io/badge/Samba-C20000?style=flat-square&logo=linux&logoColor=white) 
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
+
 
 ---
 
