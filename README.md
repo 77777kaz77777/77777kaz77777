@@ -4,7 +4,7 @@
 
 > **About This Account:** This profile showcases my projects in IT infrastructure, system administration, and security automation. It serves as a central hub for my maintenance scripts, setup guides, and automated workflows built to keep systems reliable and easy to manage. I daily-drive Fedora KDE Plasma to stay hands-on with the Linux ecosystem.
 
-**Currently working with:** BTRFS snapshots, rootless Podman containers
+**Currently working with:** BTRFS snapshots, rootless Podman containers, and nested Proxmox VE environments.
 
 ---
 
@@ -21,8 +21,8 @@
 ### Featured Repositories
 
 #### 1. [linux-environment-automation](https://77777kaz77777.github.io/linux-environment-automation/)
-[![Live Docs](https://img.shields.io/badge/Docs-GitHub_Pages-0078D6?style=flat-square&logo=githubpages&logoColor=white)](https://77777kaz77777.github.io/linux-environment-automation/)
-[![Source Code](https://img.shields.io/badge/Code-GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/77777kaz77777/linux-environment-automation)
+[![Live Docs](https://img.shields.io/badge/Docs-GitHub_Pages-0078D6?style=for-the-badge&logo=githubpages&logoColor=white)](https://77777kaz77777.github.io/linux-environment-automation/)
+[![Source Code](https://img.shields.io/badge/Code-GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/77777kaz77777/linux-environment-automation)
 
 *Cross-distro workstation automation, security hardening, and environment setup.*
 - **System Maintenance:** Automated patching and setup routines for Fedora, Arch Linux, Rocky Linux, Debian, and Ubuntu.
@@ -30,7 +30,7 @@
 - **Workspace Provisioning:** Version-controlled dotfiles, custom Bash aliases, and terminal configs for fast, consistent deployment.
 
 #### 2. [sysadmin-automation-scripts](https://github.com/77777kaz77777/sysadmin-automation-scripts)
-[![Source Code](https://img.shields.io/badge/Code-GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/77777kaz77777/sysadmin-automation-scripts)
+[![Source Code](https://img.shields.io/badge/Code-GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/77777kaz77777/sysadmin-automation-scripts)
 
 *Practical scripts and playbooks for server setup, container management, and access control.*
 - **Proxmox Orchestration:** Ansible playbooks for spinning up and tearing down virtual machines and LXC containers from templates.
@@ -38,8 +38,8 @@
 - **Account Bootstrapping:** Zero-touch scripts for local user account creation across Linux and Windows systems.
 
 #### 3. [documentation-and-cheat-sheets](https://77777kaz77777.github.io/documentation-and-cheat-sheets/)
-[![Live Docs](https://img.shields.io/badge/Docs-GitHub_Pages-0078D6?style=flat-square&logo=githubpages&logoColor=white)](https://77777kaz77777.github.io/documentation-and-cheat-sheets/)
-[![Source Code](https://img.shields.io/badge/Code-GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/77777kaz77777/documentation-and-cheat-sheets)
+[![Live Docs](https://img.shields.io/badge/Docs-GitHub_Pages-0078D6?style=for-the-badge&logo=githubpages&logoColor=white)](https://77777kaz77777.github.io/documentation-and-cheat-sheets/)
+[![Source Code](https://img.shields.io/badge/Code-GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/77777kaz77777/documentation-and-cheat-sheets)
 
 *Step-by-step technical guides, operational runbooks, and recovery checklists.*
 - **Disaster Recovery:** Practical guides on BTRFS snapshot recovery, bootloader repair, and bare-metal restores.
@@ -51,46 +51,46 @@
 ### Technology Stack
 
 **Virtualization & Containers**<br>
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white)
-![Podman](https://img.shields.io/badge/Podman-892CA0?style=flat-square&logo=podman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
-![KVM](https://img.shields.io/badge/KVM-E95420?style=flat-square&logo=linux&logoColor=white)
-![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white)
-![LXC](https://img.shields.io/badge/LXC-DD4814?style=flat-square&logo=linux&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D7?style=flat-square&logo=windows&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![KVM](https://img.shields.io/badge/KVM-E95420?style=for-the-badge&logo=linux&logoColor=white)
+![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
+![LXC](https://img.shields.io/badge/LXC-DD4814?style=for-the-badge&logo=linuxcontainers&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D7?style=for-the-badge)
 
 **Automation & Scripting**<br>
-![Ansible](https://img.shields.io/badge/Ansible-1A1918?style=flat-square&logo=ansible&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 **Operating Systems**<br>
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
-![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=red-hat&logoColor=white)
-![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-10B981?style=flat-square&logo=rockylinux&logoColor=white)
-![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-1D99F3?style=flat-square&logo=kde&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![Rocky Linux](https://img.shields.io/badge/Rocky_Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![KDE Plasma](https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 **Networking, Storage & Monitoring**<br>
-![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
-![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
-![OpenWrt](https://img.shields.io/badge/OpenWrt-00B5E2?style=flat-square&logo=openwrt&logoColor=white)
-![AdGuard Home](https://img.shields.io/badge/AdGuard_Home-68BC71?style=flat-square&logo=adguard&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white)
-![BTRFS](https://img.shields.io/badge/BTRFS-005092?style=flat-square&logo=linux&logoColor=white)
-![NFS](https://img.shields.io/badge/NFS-EA4335?style=flat-square&logo=linux&logoColor=white)
-![Samba](https://img.shields.io/badge/Samba-C20000?style=flat-square&logo=linux&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
+![OpenWrt](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white)
+![AdGuard Home](https://img.shields.io/badge/AdGuard_Home-68BC71?style=for-the-badge&logo=adguard&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge)
+![BTRFS](https://img.shields.io/badge/BTRFS-005092?style=for-the-badge&logo=linux&logoColor=white)
+![NFS](https://img.shields.io/badge/NFS-EA4335?style=for-the-badge&logo=linux&logoColor=white)
+![Samba](https://img.shields.io/badge/Samba-C20000?style=for-the-badge&logo=samba&logoColor=white)
 
 ---
 
@@ -104,5 +104,5 @@
 <br />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=77777kaz77777&icon=0&color=0078D6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=77777kaz77777&icon=0&color=0078D6&style=for-the-badge" alt="Profile Views" />
 </p>
