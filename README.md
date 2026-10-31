@@ -21,22 +21,27 @@
 ### Featured Repositories
 
 #### 1. [linux-environment-automation](https://77777kaz77777.github.io/linux-environment-automation/)
+[![Live Docs](https://img.shields.io/badge/Docs-GitHub_Pages-0078D6?style=flat-square&logo=githubpages&logoColor=white)](https://77777kaz77777.github.io/linux-environment-automation/)
+[![Source Code](https://img.shields.io/badge/Code-GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/77777kaz77777/linux-environment-automation)
+
 *Cross-distro workstation automation, security hardening, and environment setup.*
-- **Links:** [Documentation Site](https://77777kaz77777.github.io/linux-environment-automation/) | [Source Repository](https://github.com/77777kaz77777/linux-environment-automation)
 - **System Maintenance:** Automated patching and setup routines for Fedora, Arch Linux, Rocky Linux, Debian, and Ubuntu.
 - **Security & Hardening:** Scripted ClamAV antivirus scans, `sysctl` kernel/network tweaks, and OS security policies tested via GitHub Actions.
 - **Workspace Provisioning:** Version-controlled dotfiles, custom Bash aliases, and terminal configs for fast, consistent deployment.
 
 #### 2. [sysadmin-automation-scripts](https://github.com/77777kaz77777/sysadmin-automation-scripts)
+[![Source Code](https://img.shields.io/badge/Code-GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/77777kaz77777/sysadmin-automation-scripts)
+
 *Practical scripts and playbooks for server setup, container management, and access control.*
-- **Links:** [Source Repository](https://github.com/77777kaz77777/sysadmin-automation-scripts)
 - **Proxmox Orchestration:** Ansible playbooks for spinning up and tearing down virtual machines and LXC containers from templates.
 - **Identity & Access Control:** Python and Bash utilities to automate user permissions and role assignments cleanly.
 - **Account Bootstrapping:** Zero-touch scripts for local user account creation across Linux and Windows systems.
 
 #### 3. [documentation-and-cheat-sheets](https://77777kaz77777.github.io/documentation-and-cheat-sheets/)
+[![Live Docs](https://img.shields.io/badge/Docs-GitHub_Pages-0078D6?style=flat-square&logo=githubpages&logoColor=white)](https://77777kaz77777.github.io/documentation-and-cheat-sheets/)
+[![Source Code](https://img.shields.io/badge/Code-GitHub_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/77777kaz77777/documentation-and-cheat-sheets)
+
 *Step-by-step technical guides, operational runbooks, and recovery checklists.*
-- **Links:** [Documentation Site](https://77777kaz77777.github.io/documentation-and-cheat-sheets/) | [Source Repository](https://github.com/77777kaz77777/documentation-and-cheat-sheets)
 - **Disaster Recovery:** Practical guides on BTRFS snapshot recovery, bootloader repair, and bare-metal restores.
 - **Container & VM Operations:** Runbooks for running isolated workloads via KVM/QEMU, rootless Podman, Docker, and LXC.
 - **Networking & Security:** Reference guides for deploying mesh VPNs (Tailscale, WireGuard), DNS sinkholing, and firewall rules.
