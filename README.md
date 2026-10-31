@@ -4,7 +4,7 @@
 
 > **About This Account:** This profile showcases my projects in IT infrastructure, system administration, and security automation. It serves as a central hub for my maintenance scripts, setup guides, and automated workflows built to keep systems reliable and easy to manage. I daily-drive Fedora KDE Plasma to stay hands-on with the Linux ecosystem.
 
-**Currently working with:** BTRFS snapshots, rootless Podman containers, and nested Proxmox VE environments.
+**Currently working with:** BTRFS snapshots, rootless Podman containers.
 
 ---
 
