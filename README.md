@@ -11,10 +11,10 @@
 ### Core Focus Areas
 
 - **Infrastructure & CI/CD Automation:** Deploying servers and testing cross-distro scripts using Ansible, Python, Bash, and GitHub Actions.
-- **System Security & Hardening:** Locking down operating systems with SELinux, AppArmor, LUKS2/TPM2 encryption, and automated vulnerability scans.
-- **Storage & Backups:** Managing BTRFS file systems, automated snapshot lifecycles (`snapper`/`btrbk`), and bare-metal disaster recovery plans.
-- **Containers & Virtualization:** Building and managing virtualized environments using Proxmox VE, KVM/QEMU, Podman, Docker, and LXC.
-- **Networking & Monitoring:** Setting up encrypted mesh VPNs with Tailscale and WireGuard, configuring OpenWrt routers with AdGuard Home, and tracking host health via Zabbix.
+- **System Security & Hardening:** Locking down operating systems with SELinux, AppArmor, firewalld, and LUKS2/TPM2 encryption, with scheduled Lynis audits and rkhunter rootkit scans.
+- **Storage & Backups:** Managing BTRFS file systems, automated snapshot lifecycles (`snapper`/`btrbk`), encrypted restic backups managed with Backrest, and bare-metal disaster recovery plans.
+- **Containers & Virtualization:** Running self-hosted services on a headless Rocky Linux server as rootless Podman Quadlets managed by systemd and administered through Cockpit, with extensive hands-on experience building virtualized environments in Proxmox VE, KVM/QEMU, Docker, and LXC.
+- **Networking & Monitoring:** Setting up encrypted mesh VPNs with Tailscale and WireGuard, internal DNS with CoreDNS, HTTPS reverse proxying with Caddy, OpenWrt routers with AdGuard Home, and health checks with ntfy push alerts and Zabbix.
 
 ---
 
