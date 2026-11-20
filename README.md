@@ -87,10 +87,38 @@
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
 ![OpenWrt](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white)
 ![AdGuard Home](https://img.shields.io/badge/AdGuard_Home-68BC71?style=for-the-badge&logo=adguard&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white)
+![CoreDNS](https://img.shields.io/badge/CoreDNS-0086FF?style=for-the-badge)
+![firewalld](https://img.shields.io/badge/firewalld-EE0000?style=for-the-badge)
 ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge)
 ![BTRFS](https://img.shields.io/badge/BTRFS-005092?style=for-the-badge&logo=linux&logoColor=white)
 ![NFS](https://img.shields.io/badge/NFS-EA4335?style=for-the-badge&logo=linux&logoColor=white)
 ![Samba](https://img.shields.io/badge/Samba-C20000?style=for-the-badge&logo=samba&logoColor=white)
+
+**Self-Hosted Services**<br>
+![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white)
+![Collabora Online](https://img.shields.io/badge/Collabora_Online-5C2983?style=for-the-badge)
+![Paperless-ngx](https://img.shields.io/badge/Paperless--ngx-17541F?style=for-the-badge)
+![Miniflux](https://img.shields.io/badge/Miniflux-33445C?style=for-the-badge)
+![linkding](https://img.shields.io/badge/linkding-5856E0?style=for-the-badge)
+![Homepage](https://img.shields.io/badge/Homepage-0F172A?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Open WebUI](https://img.shields.io/badge/Open_WebUI-000000?style=for-the-badge)
+![IT-Tools](https://img.shields.io/badge/IT--Tools-18A058?style=for-the-badge)
+![Dozzle](https://img.shields.io/badge/Dozzle-1A2B3C?style=for-the-badge)
+![ntfy](https://img.shields.io/badge/ntfy-317F6F?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Cockpit](https://img.shields.io/badge/Cockpit-0066CC?style=for-the-badge)
+
+**Security & Backups**<br>
+![SELinux](https://img.shields.io/badge/SELinux-CC0000?style=for-the-badge)
+![Lynis](https://img.shields.io/badge/Lynis-2E3440?style=for-the-badge)
+![rkhunter](https://img.shields.io/badge/rkhunter-555555?style=for-the-badge)
+![auditd](https://img.shields.io/badge/auditd-4A4A4A?style=for-the-badge)
+![GnuPG](https://img.shields.io/badge/GnuPG-0093DD?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
+![restic](https://img.shields.io/badge/restic-1F6FEB?style=for-the-badge)
+![Backrest](https://img.shields.io/badge/Backrest-3B82F6?style=for-the-badge)
 
 ---
 
